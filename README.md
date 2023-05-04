@@ -1,4 +1,4 @@
-👋 Hi
+# 👋 Hi
 Welcome to my GitHub repository! I'm a Mohole student studying **Graphics Design** and **Web & App development**.
 
 🎓 Currently, I'm in my second year of study at Mohole.
