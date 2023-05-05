@@ -12,7 +12,7 @@ In this repository, you'll find the projects I've created during my studies. Som
 
 🚀 Some of my recent projects include:
 
-[Project 1](ttps://github.com/desossiribosio/Tornei-Mohole): a website I created for Mohole about the Tournaments' school.
+[Project 1](https://github.com/desossiribosio/Tornei-Mohole): a website I created for Mohole about the Tournaments' school.
 [Project 2](https://github.com/desossiribosio/reyvsid): a showcase website of Intercation Design course
 
 ### 😉 Contact
